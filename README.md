@@ -4,6 +4,10 @@ An Arduino library to tokenize and parse commands received over a serial port.
 Inspired by (original version):
 https://github.com/scogswell/ArduinoSerialCommand
 
+Forked from https://github.com/ppedro74/Arduino-SerialCommands
+as it may have been abandoned (no new commits and pull requests have been
+pending for many months)
+
 This library is for handling text commands over a serial port.
 
 Goals:
